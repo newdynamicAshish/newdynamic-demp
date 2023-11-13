@@ -1,2 +1,2 @@
 # newdynamic-demo
-This is  my first repositories
+This is  my first Git Repository
